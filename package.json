@@ -1,0 +1,20 @@
+{
+  "name": "hardhat",
+  "version": "0.0.1",
+  "description": "hardhat course",
+  "homepage": "https://github.com/ryzhov/hardhat#readme",
+  "bugs": {
+    "url": "https://github.com/ryzhov/hardhat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryzhov/hardhat.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
